@@ -1,0 +1,98 @@
+body{
+  background-color: white;
+  font-size: 16px;
+  font-family: Helvetica, sans-serif;
+}
+
+
+body  {
+  background-image: url("https://th.bing.com/th/id/R.c78db218e036dd79aac68a98ffee129c?rik=32uS7Jg2o5X51A&riu=http%3a%2f%2fseawater.mithec.com%2fwp%2fwp-content%2fuploads%2f2012%2f12%2focean.jpg&ehk=uPpxRtZkjmdciS%2bZV%2bXeJN6ZzNs9KQS%2fXAj77us8QiQ%3d&risl=&pid=ImgRaw&r=0");
+  background-color: #cccccc;
+
+
+ h1 {
+
+  color: rgb(39 11 195);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  letter-spacing: 5px;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+  
+}
+
+ h2 {
+  color: #882fc4;
+  font-family: Courier;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+ a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bolder;
+  font-size: 18px;
+ }
+
+ a:hover{
+  color: red;
+ }
+
+ container {
+  width: 700px;
+  margin: 40px auto
+ }
+
+ }
+
+ .card-white{
+  background-color: white;
+    padding: 50px;
+    box-shadow: 0px 10px 35px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    text-align: justify-all;
+    margin: 20px;
+ }
+
+.img-circle{
+  border-radius: 51%;
+}
+
+.btn-orange{
+  background-color: ##5E83E9;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 10px;
+ }
+
+.btn-orange:hover {
+  background-color: ##D3D3D3;
+  color: white;
+ }
+
+.list-inline{
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li{
+  display: inline;
+  padding: 15px;
+ }
+
+.list-inline i{
+  font-size: 50px;
+  color: #FFC0CB
+}
+
+.list-inline i:hover {
+  font-size: 50px;
+  color: #000000
+}
+
+#introduction p {
+  margin-bottom: 40px;
+}
+
